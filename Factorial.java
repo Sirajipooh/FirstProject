@@ -14,11 +14,11 @@ public class Factorial
         
 }
 
-
+// My Comment
     public static void main(String args[])
     {
-        Factorial f = new Factorial();
-        System.out.println(f.fact(3));
+        Factorial factorial = new Factorial();
+        System.out.println(factorial.fact(3));
         //f.test();
     }
 }

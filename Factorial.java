@@ -14,7 +14,7 @@ public class Factorial
         
 }
 
-// this code is awesome
+// this code is awesome, keep up the good work
     public static void main(String args[])
     {
         Factorial fact = new Factorial();
